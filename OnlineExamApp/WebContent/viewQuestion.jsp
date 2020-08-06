@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert title HERE</title>
 </head>
 <body>
 <form action = "AnswerCheckServlet">
