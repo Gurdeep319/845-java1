@@ -25,7 +25,7 @@
 	}
 %>
 <br/>
-<button type = "submit">Next Question</button>
+<button type = "submit">Next Ques</button>
 </form>
 <!--<a href = "QuestionLoaderServlet">Next Question</a>-->
 </body>
